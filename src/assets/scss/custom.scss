@@ -1,0 +1,39 @@
+
+  .bg-mobile {
+    background-image: url("../images/bg-mo2.jpg");
+    height: 100vh;
+  }
+  .button-bottom{
+    position: fixed;
+    bottom: 0;   
+    right: 0;
+  }
+  .BG-Login {
+    background-image: url("../../assets/images/bg3.jpg");
+    background-size: cover;
+    height: 100vh;
+    background-position: center top;
+  }
+  .body-content {
+    padding-top: 25px;
+    padding-bottom: 55px;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 94vh;
+    overflow-x: hidden;
+    background-color: #E8E8E8;
+  }
+  .title-text{
+    font-size: 20px;
+  }
+  .footer{
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    padding: 4px;
+    text-align: center;
+    width: 100%;
+    background-color: white;
+    border-radius: 20px 20px 0px 0px;
+    color: white;
+  }
